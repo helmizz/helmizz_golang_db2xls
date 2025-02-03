@@ -1,6 +1,4 @@
-Berikut adalah contoh file `README.md` untuk library Anda. File ini memberikan informasi penting tentang library, cara instalasi, penggunaan, dan kontribusi.
 
----
 
 # Helmizz DB2XLS
 
@@ -96,5 +94,3 @@ Library ini dilisensikan di bawah [MIT License](LICENSE).
 Jika Anda memiliki pertanyaan atau masalah, silakan buka issue di repositori GitHub ini.
 
 ---
-
-Dengan file `README.md` ini, pengguna akan memiliki pemahaman yang jelas tentang cara menggunakan library Anda, serta informasi tentang kontribusi dan lisensi.
