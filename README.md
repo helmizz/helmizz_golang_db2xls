@@ -15,7 +15,7 @@ Helmizz DB2XLS adalah library Go yang memungkinkan Anda mengekspor data dari dat
 ## Instalasi
 Untuk menggunakan library ini, tambahkan ke proyek Go Anda dengan perintah berikut:
 ```bash
-go get -u github.com/helmizz/helmizz_db2xls
+go get -u github.com/helmizz/helmizz_golang_db2xls
 ```
 
 ## Penggunaan
@@ -50,7 +50,7 @@ package main
 
 import (
 	"log"
-	"github.com/helmizz/helmizz_db2xls"
+	"github.com/helmizz/helmizz_golang_db2xls"
 )
 
 func main() {
